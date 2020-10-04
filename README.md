@@ -1,2 +1,2 @@
 # Sistema-Operacionais-
-Reporsitório para atividades de sistemas operacionais.
+Repositório para atividades de Sistemas Operacionais - UFCG.
