@@ -1,4 +1,4 @@
-package jantar;
+package jantardosfilosofos;
 
 public class Mesa {
 	

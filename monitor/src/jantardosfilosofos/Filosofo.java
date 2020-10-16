@@ -1,4 +1,4 @@
-package jantar;
+package jantardosfilosofos;
 
 public class Filosofo extends Thread {
    final static int TEMPO_MAXIMO = 100;
