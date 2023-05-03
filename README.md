@@ -1,5 +1,7 @@
 # Sistema-Operacionais
 
-Solução para a cadeira da disciplina do Sistemas Operacionais do problema de sincronização do grande Jantar dos filósofos.
+Solução para semaforos e monitores da disciplina do Sistemas Operacionais do curso de Ciência da Computação da UFCG.
 
->Implementação em Java utilizando os semáforos e monitores.
+## :rocket: Tecnologias
+
+- [Java](https://www.java.com/)
